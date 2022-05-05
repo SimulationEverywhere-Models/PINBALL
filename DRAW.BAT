@@ -1,0 +1,1 @@
+..\drawlog -mpinball.ma -cpinball -lpinball.log -w1 -p0 -0 >output
